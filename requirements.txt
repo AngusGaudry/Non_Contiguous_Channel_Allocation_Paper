@@ -1,0 +1,5 @@
+numpy
+scipy>=1.11
+pandas
+openpyxl
+ortools>=9.8
